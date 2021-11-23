@@ -1,6 +1,6 @@
 from DrawingInterface import DrawingInterface
 
-import pydiffvg
+import diffvg as pydiffvg
 import torch
 from torch.nn import functional as F
 import skimage

@@ -5,7 +5,7 @@
 
 from DrawingInterface import DrawingInterface
 
-import pydiffvg
+import diffvg as pydiffvg
 import torch
 import skimage
 import skimage.io
